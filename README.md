@@ -24,6 +24,8 @@ An Angular car-rental demo with a filterable catalog and a booking enquiry form.
 
 A Python computer vision demo for exploring facial expression labels from webcam frames. It shares a DeepFace detector between a Flask browser interface and an OpenCV desktop interface.
 
-[Setup and architecture](https://github.com/khurik662/EmoDet_cl#readme)
+[<img src="https://raw.githubusercontent.com/khurik662/EmoDet_cl/main/emodet-preview.jpg" alt="EmoDet browser demo with a face box and expression scores" width="600">](https://github.com/khurik662/EmoDet_cl#demo)
+
+[Watch the GIF](https://github.com/khurik662/EmoDet_cl/blob/main/emodet-demo.gif) · [Setup and architecture](https://github.com/khurik662/EmoDet_cl#readme)
 
 [Browse public repositories](https://github.com/khurik662?tab=repositories)
