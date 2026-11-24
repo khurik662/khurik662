@@ -8,7 +8,9 @@ I build applications for local operations, web demos, and computer vision experi
 
 A local prototype for managing play sessions, checkout, and inventory. The public case study walks through the cashier and owner workflows and records the results of a clean demo run on Apple silicon.
 
-[View the product showcase](https://github.com/khurik662/ctps-showcase#readme)
+[<img src="https://raw.githubusercontent.com/khurik662/ctps-showcase/main/01-club-floor.jpg" alt="CTPS club floor with a live station session and running bill" width="720">](https://github.com/khurik662/ctps-showcase#readme)
+
+[See the four-screen walkthrough](https://github.com/khurik662/ctps-showcase#readme)
 
 ### [Cars](https://github.com/khurik662/cars)
 
