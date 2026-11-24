@@ -1,8 +1,14 @@
 # khurik662
 
-I build web demos and explore computer vision with Python.
+I build applications for local operations, web demos, and computer vision experiments.
 
 ## Featured projects
+
+### [CTPS · Gaming club operations](https://github.com/khurik662/ctps-showcase)
+
+A local prototype for managing play sessions, checkout, and inventory. The public case study walks through the cashier and owner workflows and records the results of a clean demo run on Apple silicon.
+
+[View the product showcase](https://github.com/khurik662/ctps-showcase#readme)
 
 ### [Cars](https://github.com/khurik662/cars)
 
